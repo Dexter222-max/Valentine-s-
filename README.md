@@ -8,7 +8,7 @@
   <meta name="description" content="Will you be my Valentine?">
 
   <!-- Open Graph -->
-  <meta property="og:url" content="https://dayanch96.github.io/valentine/valentine.html?name=Dan">
+  <meta property="og:url" content="https://Dexter-222.github.io/valentine/valentine.html?name=Dan">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Will you be my Valentine?">
   <meta property="og:image" content="https://raw.githubusercontent.com/Dexter-222/valentine/refs/heads/main/img/header.png">
